@@ -1,0 +1,2 @@
+# construccionBDp
+tipo de usuario.
